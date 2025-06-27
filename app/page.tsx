@@ -91,8 +91,8 @@ export default function Home() {
           </p>
 
           <div className="grid md:grid-cols-3 gap-8">
-            <Card className="border-[#e5e8eb] overflow-hidden py-0 h-[350px]">
-              <Image src={'/benefit2.png'} alt="img" width={500} height={170}></Image>
+            <Card className="border-[#e5e8eb] overflow-hidden py-0 h-[370px]">
+              <Image src={'/benefit2.jpg'} alt="img" width={400} height={170}></Image>
               <CardContent className="px-6">
                 <h3 className="text-xl font-semibold text-[#121417] mb-3">Enhanced Security</h3>
                 <p className="text-[#61758a] leading-relaxed">
@@ -101,8 +101,8 @@ export default function Home() {
               </CardContent>
             </Card>
 
-            <Card className="border-[#e5e8eb] overflow-hidden py-0 h-[350px]">
-              <Image src={'/benefit2.png'} alt="img" width={500} height={170}></Image>
+            <Card className="border-[#e5e8eb] overflow-hidden py-0 h-[370px]">
+              <Image src={'/benefit3.jpg'} alt="img" width={400} height={170}></Image>
               <CardContent className="px-6">
                 <h3 className="text-xl font-semibold text-[#121417] mb-3">Peace of Mind</h3>
                 <p className="text-[#61758a] leading-relaxed">
@@ -111,8 +111,8 @@ export default function Home() {
               </CardContent>
             </Card>
 
-            <Card className="border-[#e5e8eb] overflow-hidden py-0 h-[350px]">
-              <Image src={'/benefit3.png'} alt="img" width={500} height={170}></Image>
+            <Card className="border-[#e5e8eb] overflow-hidden py-0 h-[370px]">
+              <Image src={'/benefit1.jpg'} alt="img" width={400} height={170}></Image>
               <CardContent className="px-6">
                 <h3 className="text-xl font-semibold text-[#121417] mb-3">Cost-Effective</h3>
                 <p className="text-[#61758a] leading-relaxed">Affordable solutions for individuals and businesses.</p>

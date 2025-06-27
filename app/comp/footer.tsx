@@ -17,16 +17,16 @@ const Footer = () => {
 
             {/* Navigation Links */}
             <div className="flex flex-wrap justify-center gap-6 text-sm">
-              <Link href="#" className="text-[#6b7582] hover:text-[#ffffff] transition-colors">
+              <Link href="/why" className="text-[#6b7582] hover:text-[#ffffff] transition-colors">
                 About
               </Link>
-              <Link href="#" className="text-[#6b7582] hover:text-[#ffffff] transition-colors">
+              <Link href="/contact" className="text-[#6b7582] hover:text-[#ffffff] transition-colors">
                 Contact
               </Link>
-              <Link href="#" className="text-[#6b7582] hover:text-[#ffffff] transition-colors">
+              <Link href="/privacy" className="text-[#6b7582] hover:text-[#ffffff] transition-colors">
                 Privacy
               </Link>
-              <Link href="#" className="text-[#6b7582] hover:text-[#ffffff] transition-colors">
+              <Link href="/tnc" className="text-[#6b7582] hover:text-[#ffffff] transition-colors">
                 Terms
               </Link>
             </div>
